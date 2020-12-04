@@ -1,0 +1,99 @@
+body {
+    background : #0070B3;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-items {
+    font-family: 'Poppins', sans-serif;
+    display: inline;
+    margin: 15px;
+    color: aliceblue;
+    cursor: pointer;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    padding-left: 162px;
+    margin-left: 0px;
+    margin-top: 22px;
+}
+
+.nav {
+    padding: 30px;
+}
+
+.middle-section p {
+    width: 40%;
+}
+
+.middle-section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.middle-section h1{
+    /* display: inline-bl; */
+}
+
+.pepsi-img {
+    margin-right: 113px;
+    margin-top: 30px;
+}
+
+.content {
+    padding: 80px;
+}
+
+.content h1, span {
+    text-transform:uppercase ;
+    color: aliceblue;
+}
+
+.content span {
+    font-size: 5em;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    bottom: 25px;
+}
+
+.content h1 {
+    font-weight: 900;
+    font-size: 3em;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+
+
+.content p {
+    
+    font-family: 'Mulish', sans-serif;
+    color: aliceblue;
+    position: relative;
+    bottom: 32px;
+
+    
+}
+
+.social-items {
+    display: block;
+    padding: 20px;
+}
+
+.social-icons {
+    position: relative;
+    top: 168px;
+    margin-right: 22px;
+}
+
+
+.social-items:hover {
+    background-color: aliceblue;
+}
+
